@@ -1,0 +1,132 @@
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\csc.exe
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\System.Collections.Immutable.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\System.Reflection.Metadata.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\vbc.exe
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\VBCSCompiler.exe
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\roslyn\VBCSCompiler.exe.config
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\GestorContenido.dll.config
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\GestorContenido.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\GestorContenido.pdb
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\Antlr3.Runtime.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\Microsoft.Web.Infrastructure.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\Newtonsoft.Json.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Helpers.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Mvc.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Optimization.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Razor.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.WebPages.Deployment.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.WebPages.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.WebPages.Razor.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\WebGrease.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Helpers.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Mvc.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Optimization.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.Razor.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.WebPages.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.WebPages.Deployment.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\System.Web.WebPages.Razor.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\Antlr3.Runtime.pdb
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\Newtonsoft.Json.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\obj\Debug\GestorContenido.csprojResolveAssemblyReference.cache
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\obj\Debug\GestorContenido.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\obj\Debug\GestorContenido.pdb
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\EntityFramework.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\EntityFramework.SqlServer.dll
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\EntityFramework.xml
+E:\FutbolHuatabampoCentral\WEBPROJECT\GestorContenido\GestorContenido\bin\EntityFramework.SqlServer.xml
+E:\GestorContenido\GestorContenido\bin\roslyn\csc.exe
+E:\GestorContenido\GestorContenido\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GestorContenido\GestorContenido\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GestorContenido\GestorContenido\bin\roslyn\System.Collections.Immutable.dll
+E:\GestorContenido\GestorContenido\bin\roslyn\System.Reflection.Metadata.dll
+E:\GestorContenido\GestorContenido\bin\roslyn\vbc.exe
+E:\GestorContenido\GestorContenido\bin\roslyn\VBCSCompiler.exe
+E:\GestorContenido\GestorContenido\bin\roslyn\VBCSCompiler.exe.config
+E:\GestorContenido\GestorContenido\bin\GestorContenido.dll.config
+E:\GestorContenido\GestorContenido\bin\GestorContenido.dll
+E:\GestorContenido\GestorContenido\bin\GestorContenido.pdb
+E:\GestorContenido\GestorContenido\bin\Antlr3.Runtime.dll
+E:\GestorContenido\GestorContenido\bin\EntityFramework.dll
+E:\GestorContenido\GestorContenido\bin\EntityFramework.SqlServer.dll
+E:\GestorContenido\GestorContenido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GestorContenido\GestorContenido\bin\Microsoft.Web.Infrastructure.dll
+E:\GestorContenido\GestorContenido\bin\Newtonsoft.Json.dll
+E:\GestorContenido\GestorContenido\bin\System.Web.Helpers.dll
+E:\GestorContenido\GestorContenido\bin\System.Web.Mvc.dll
+E:\GestorContenido\GestorContenido\bin\System.Web.Optimization.dll
+E:\GestorContenido\GestorContenido\bin\System.Web.Razor.dll
+E:\GestorContenido\GestorContenido\bin\System.Web.WebPages.Deployment.dll
+E:\GestorContenido\GestorContenido\bin\System.Web.WebPages.dll
+E:\GestorContenido\GestorContenido\bin\System.Web.WebPages.Razor.dll
+E:\GestorContenido\GestorContenido\bin\WebGrease.dll
+E:\GestorContenido\GestorContenido\bin\EntityFramework.xml
+E:\GestorContenido\GestorContenido\bin\EntityFramework.SqlServer.xml
+E:\GestorContenido\GestorContenido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GestorContenido\GestorContenido\bin\System.Web.Helpers.xml
+E:\GestorContenido\GestorContenido\bin\System.Web.Mvc.xml
+E:\GestorContenido\GestorContenido\bin\System.Web.Optimization.xml
+E:\GestorContenido\GestorContenido\bin\System.Web.Razor.xml
+E:\GestorContenido\GestorContenido\bin\System.Web.WebPages.xml
+E:\GestorContenido\GestorContenido\bin\System.Web.WebPages.Deployment.xml
+E:\GestorContenido\GestorContenido\bin\System.Web.WebPages.Razor.xml
+E:\GestorContenido\GestorContenido\bin\Antlr3.Runtime.pdb
+E:\GestorContenido\GestorContenido\bin\Newtonsoft.Json.xml
+E:\GestorContenido\GestorContenido\obj\Debug\GestorContenido.dll
+E:\GestorContenido\GestorContenido\obj\Debug\GestorContenido.pdb
+E:\GestorContenido\GestorContenido\obj\Debug\GestorContenido.csprojResolveAssemblyReference.cache
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\obj\Debug\GestorContenido.csprojResolveAssemblyReference.cache
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\obj\Debug\GestorContenido.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\obj\Debug\GestorContenido.pdb
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\csc.exe
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\System.Collections.Immutable.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\System.Reflection.Metadata.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\vbc.exe
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\VBCSCompiler.exe
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\roslyn\VBCSCompiler.exe.config
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\GestorContenido.dll.config
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\GestorContenido.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\GestorContenido.pdb
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\Antlr3.Runtime.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\EntityFramework.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\EntityFramework.SqlServer.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\Microsoft.Web.Infrastructure.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\Newtonsoft.Json.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Helpers.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Mvc.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Optimization.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Razor.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.WebPages.Deployment.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.WebPages.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.WebPages.Razor.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\WebGrease.dll
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\EntityFramework.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\EntityFramework.SqlServer.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Helpers.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Mvc.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Optimization.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.Razor.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.WebPages.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.WebPages.Deployment.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\System.Web.WebPages.Razor.xml
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\Antlr3.Runtime.pdb
+E:\PROYECTOS Y PROGRAMAS EN VE2015\GestorContenido\GestorContenido\bin\Newtonsoft.Json.xml

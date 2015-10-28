@@ -1,0 +1,67 @@
+﻿@model GestorContenido.Models.Contenido
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Contenido</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.texto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.texto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.imageDir)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.imageDir)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.row)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.row)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idUser)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idUser)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.create)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.create)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.modified)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.modified)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

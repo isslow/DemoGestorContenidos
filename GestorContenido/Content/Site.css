@@ -1,0 +1,79 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color:white;
+    background:rgb(91, 197, 251);
+    background-image:url(/Content//images/engranajes.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-position:center;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    /*max-width: 280px;*/
+   
+}
+/*mis estilos personales*/
+ul{
+    list-style:none;
+}
+.head{
+    /*background:rgb(14, 169, 237);*/
+    /*background-image:url(/Content/images/fondo1.jpg);
+    background-repeat:no-repeat;
+    background-size:50%;*/
+    color:white;
+    padding:20px;
+}
+.navbar-nav li a{
+   color:rgb(49, 48, 48)!important;
+}
+.navbar-nav li a:hover{
+    background-color:rgb(62, 146, 189)!important;
+    color:white !important;
+}
+.contenidoPrincipal{
+    background-color:white !important;
+    border-radius:10px;
+    
+    color:darkgray;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.navbar-toggle{
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 4px;
+   
+}
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    color:white !important;
+}
+.footerColor{
+    background:rgb(49, 48, 48);
+    height:100%;
+    margin-top:20px;
+    margin-bottom:-20px;
+    bottom:0px !important;
+}
+/*fin estilos personales*/
